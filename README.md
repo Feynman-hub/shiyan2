@@ -77,6 +77,14 @@ public class Course
 	 public Course(int courseId,String courseName,float credit,Teacher teacher) 
           ………
                 }
+		
+实验感悟：
+通过此次实验，让我学到了很多关于Java编程技术相关的设计方法以及对于eslipse这个编程软件有了更深的了解；
+学会了独立分析系统需求以及系统中实体及其关系，学会了定义类中的属性以及方法；
+初步掌握了面向对象的设计方法；
+对于类的继承用法，通过构造的方法实例化对象有了跟进一步的了解；
+关于使用super（），用于实例化子类的方法有所加强，但是还是有不理解的地方，需要多加练习；
+
 	
  
             
